@@ -1,0 +1,5 @@
+{
+  "build_dir": "dist",
+  "app_file": "dist/sproutcore-routing.js",
+  "src": [ "lib/core.js" ]
+}

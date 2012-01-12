@@ -2,3 +2,5 @@
 .spade/
 assets/
 *.bpkg
+*~
+dist/
